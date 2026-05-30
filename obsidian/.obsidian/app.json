@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source",
+  "foldIndent": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "tabSize": 2,
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "obsidian/.raw"
+}
